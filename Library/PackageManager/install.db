@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "64a4bf61052d",
+        "mtime": 1678983054000,
+        "size": 147494112,
+        "localPath": "C:\\Users\\igobh\\ARStandExhibtion\\Packages\\com.ptc.vuforia.engine-10.14.4.tgz"
+      }
+    }
+  }
+}
